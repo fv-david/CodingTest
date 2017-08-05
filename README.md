@@ -13,12 +13,13 @@
 * framework
 	- Spring Web
 	- Spring Data
+	- Hibernate
 	- HikariCP
 	- Thymeleaf
 	- Projectlombok
 	- Bootstrap & jQuery
 
 * Database 
-	- Mysql
+	- Mysql (username: root, pass: (kosong))
 
 
